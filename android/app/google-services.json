@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774800298554",
+    "project_id": "ncs-mca",
+    "storage_bucket": "ncs-mca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774800298554:android:b8b13a42776c57156ddb03",
+        "android_client_info": {
+          "package_name": "com.example.nano_city_services"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaT-mL0uoRZ3PFq7QRfTeTFO6y_UbYuP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
