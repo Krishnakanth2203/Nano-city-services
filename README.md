@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # nano_city_services
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Nano-city-services
+>>>>>>> a393e6beeba8d76e74b57f2a980468d03ab9497f
